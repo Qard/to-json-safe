@@ -1,0 +1,25 @@
+{
+  "name": "to-json-safe",
+  "version": "1.0.0",
+  "description": "Safe toJSON by defining specific keys to include or exclude",
+  "main": "index.js",
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/Qard/to-json-safe#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qard/to-json-safe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Qard/to-json-safe/issues"
+  },
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "dependencies": {
+    "extend-object": "^1.0.0"
+  },
+  "devDependencies": {
+    "tap": "^2.2.0"
+  }
+}

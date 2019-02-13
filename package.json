@@ -20,6 +20,6 @@
     "extend-object": "^1.0.0"
   },
   "devDependencies": {
-    "tap": "^2.2.0"
+    "tap": "^12.5.2"
   }
 }
